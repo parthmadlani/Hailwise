@@ -1,0 +1,24 @@
+# Raw and cleaned trip data (~3 GB) - recreate with ./run_all.sh
+# (leading slash: only the top-level folder, not the model's own data/ folder)
+/data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Spark leftovers
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Front end
+node_modules/
+web/frontend/dist/
+
+# Editor / OS / local tooling
+.DS_Store
+.vscode/
+.idea/
+*.part
+*.log

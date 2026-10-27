@@ -1,0 +1,7 @@
+{
+  "analysis_seconds": 77.2,
+  "partition_query_rows": 3367771,
+  "partition_query_seconds": 0.1,
+  "full_scan_rows": 55808504,
+  "full_scan_seconds": 0.4
+}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1793123413597,"sparkVersion":"4.0.1","uid":"VectorAssembler_7f246a59e49d","paramMap":{"outputCol":"features","inputCols":["trip_distance","PULocationID","DOLocationID","pickup_hour","day_of_week","is_weekend","month"]},"defaultParamMap":{"outputCol":"VectorAssembler_7f246a59e49d__output","handleInvalid":"error"}}
